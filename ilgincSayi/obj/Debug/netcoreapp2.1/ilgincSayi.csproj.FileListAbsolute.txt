@@ -1,0 +1,11 @@
+C:\Users\Bus\Desktop\vs.C#\Solution1\ilgincSayi\bin\Debug\netcoreapp2.1\ilgincSayi.deps.json
+C:\Users\Bus\Desktop\vs.C#\Solution1\ilgincSayi\bin\Debug\netcoreapp2.1\ilgincSayi.runtimeconfig.json
+C:\Users\Bus\Desktop\vs.C#\Solution1\ilgincSayi\bin\Debug\netcoreapp2.1\ilgincSayi.runtimeconfig.dev.json
+C:\Users\Bus\Desktop\vs.C#\Solution1\ilgincSayi\bin\Debug\netcoreapp2.1\ilgincSayi.dll
+C:\Users\Bus\Desktop\vs.C#\Solution1\ilgincSayi\bin\Debug\netcoreapp2.1\ilgincSayi.pdb
+C:\Users\Bus\Desktop\vs.C#\Solution1\ilgincSayi\obj\Debug\netcoreapp2.1\ilgincSayi.csprojAssemblyReference.cache
+C:\Users\Bus\Desktop\vs.C#\Solution1\ilgincSayi\obj\Debug\netcoreapp2.1\ilgincSayi.csproj.CoreCompileInputs.cache
+C:\Users\Bus\Desktop\vs.C#\Solution1\ilgincSayi\obj\Debug\netcoreapp2.1\ilgincSayi.AssemblyInfoInputs.cache
+C:\Users\Bus\Desktop\vs.C#\Solution1\ilgincSayi\obj\Debug\netcoreapp2.1\ilgincSayi.AssemblyInfo.cs
+C:\Users\Bus\Desktop\vs.C#\Solution1\ilgincSayi\obj\Debug\netcoreapp2.1\ilgincSayi.dll
+C:\Users\Bus\Desktop\vs.C#\Solution1\ilgincSayi\obj\Debug\netcoreapp2.1\ilgincSayi.pdb

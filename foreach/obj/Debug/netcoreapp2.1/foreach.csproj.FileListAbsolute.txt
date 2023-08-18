@@ -1,0 +1,11 @@
+C:\Users\Bus\Desktop\vs.C#\Solution1\foreach\bin\Debug\netcoreapp2.1\foreach.deps.json
+C:\Users\Bus\Desktop\vs.C#\Solution1\foreach\bin\Debug\netcoreapp2.1\foreach.runtimeconfig.json
+C:\Users\Bus\Desktop\vs.C#\Solution1\foreach\bin\Debug\netcoreapp2.1\foreach.runtimeconfig.dev.json
+C:\Users\Bus\Desktop\vs.C#\Solution1\foreach\bin\Debug\netcoreapp2.1\foreach.dll
+C:\Users\Bus\Desktop\vs.C#\Solution1\foreach\bin\Debug\netcoreapp2.1\foreach.pdb
+C:\Users\Bus\Desktop\vs.C#\Solution1\foreach\obj\Debug\netcoreapp2.1\foreach.csproj.CoreCompileInputs.cache
+C:\Users\Bus\Desktop\vs.C#\Solution1\foreach\obj\Debug\netcoreapp2.1\foreach.AssemblyInfoInputs.cache
+C:\Users\Bus\Desktop\vs.C#\Solution1\foreach\obj\Debug\netcoreapp2.1\foreach.AssemblyInfo.cs
+C:\Users\Bus\Desktop\vs.C#\Solution1\foreach\obj\Debug\netcoreapp2.1\foreach.dll
+C:\Users\Bus\Desktop\vs.C#\Solution1\foreach\obj\Debug\netcoreapp2.1\foreach.pdb
+C:\Users\Bus\Desktop\vs.C#\Solution1\foreach\obj\Debug\netcoreapp2.1\foreach.csprojAssemblyReference.cache

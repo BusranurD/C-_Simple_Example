@@ -1,0 +1,10 @@
+C:\Users\Bus\Desktop\vs.C#\Solution1\Kharfi\obj\Debug\netcoreapp2.1\Kharfi.csproj.CoreCompileInputs.cache
+C:\Users\Bus\Desktop\vs.C#\Solution1\Kharfi\obj\Debug\netcoreapp2.1\Kharfi.AssemblyInfoInputs.cache
+C:\Users\Bus\Desktop\vs.C#\Solution1\Kharfi\obj\Debug\netcoreapp2.1\Kharfi.AssemblyInfo.cs
+C:\Users\Bus\Desktop\vs.C#\Solution1\Kharfi\bin\Debug\netcoreapp2.1\Kharfi.deps.json
+C:\Users\Bus\Desktop\vs.C#\Solution1\Kharfi\bin\Debug\netcoreapp2.1\Kharfi.runtimeconfig.json
+C:\Users\Bus\Desktop\vs.C#\Solution1\Kharfi\bin\Debug\netcoreapp2.1\Kharfi.runtimeconfig.dev.json
+C:\Users\Bus\Desktop\vs.C#\Solution1\Kharfi\bin\Debug\netcoreapp2.1\Kharfi.dll
+C:\Users\Bus\Desktop\vs.C#\Solution1\Kharfi\bin\Debug\netcoreapp2.1\Kharfi.pdb
+C:\Users\Bus\Desktop\vs.C#\Solution1\Kharfi\obj\Debug\netcoreapp2.1\Kharfi.dll
+C:\Users\Bus\Desktop\vs.C#\Solution1\Kharfi\obj\Debug\netcoreapp2.1\Kharfi.pdb

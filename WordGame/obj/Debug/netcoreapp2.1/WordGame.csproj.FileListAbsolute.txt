@@ -1,0 +1,11 @@
+C:\Users\Bus\Desktop\vs.C#\Solution1\WordGame\bin\Debug\netcoreapp2.1\WordGame.deps.json
+C:\Users\Bus\Desktop\vs.C#\Solution1\WordGame\bin\Debug\netcoreapp2.1\WordGame.runtimeconfig.json
+C:\Users\Bus\Desktop\vs.C#\Solution1\WordGame\bin\Debug\netcoreapp2.1\WordGame.runtimeconfig.dev.json
+C:\Users\Bus\Desktop\vs.C#\Solution1\WordGame\bin\Debug\netcoreapp2.1\WordGame.dll
+C:\Users\Bus\Desktop\vs.C#\Solution1\WordGame\bin\Debug\netcoreapp2.1\WordGame.pdb
+C:\Users\Bus\Desktop\vs.C#\Solution1\WordGame\obj\Debug\netcoreapp2.1\WordGame.csprojAssemblyReference.cache
+C:\Users\Bus\Desktop\vs.C#\Solution1\WordGame\obj\Debug\netcoreapp2.1\WordGame.csproj.CoreCompileInputs.cache
+C:\Users\Bus\Desktop\vs.C#\Solution1\WordGame\obj\Debug\netcoreapp2.1\WordGame.AssemblyInfoInputs.cache
+C:\Users\Bus\Desktop\vs.C#\Solution1\WordGame\obj\Debug\netcoreapp2.1\WordGame.AssemblyInfo.cs
+C:\Users\Bus\Desktop\vs.C#\Solution1\WordGame\obj\Debug\netcoreapp2.1\WordGame.dll
+C:\Users\Bus\Desktop\vs.C#\Solution1\WordGame\obj\Debug\netcoreapp2.1\WordGame.pdb

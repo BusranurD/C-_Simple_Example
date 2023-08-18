@@ -1,0 +1,10 @@
+C:\Users\Bus\Desktop\vs.C#\Solution1\carpımTablosu\bin\Debug\netcoreapp2.1\carpımTablosu.deps.json
+C:\Users\Bus\Desktop\vs.C#\Solution1\carpımTablosu\bin\Debug\netcoreapp2.1\carpımTablosu.runtimeconfig.json
+C:\Users\Bus\Desktop\vs.C#\Solution1\carpımTablosu\bin\Debug\netcoreapp2.1\carpımTablosu.runtimeconfig.dev.json
+C:\Users\Bus\Desktop\vs.C#\Solution1\carpımTablosu\bin\Debug\netcoreapp2.1\carpımTablosu.dll
+C:\Users\Bus\Desktop\vs.C#\Solution1\carpımTablosu\bin\Debug\netcoreapp2.1\carpımTablosu.pdb
+C:\Users\Bus\Desktop\vs.C#\Solution1\carpımTablosu\obj\Debug\netcoreapp2.1\carpımTablosu.csproj.CoreCompileInputs.cache
+C:\Users\Bus\Desktop\vs.C#\Solution1\carpımTablosu\obj\Debug\netcoreapp2.1\carpımTablosu.AssemblyInfoInputs.cache
+C:\Users\Bus\Desktop\vs.C#\Solution1\carpımTablosu\obj\Debug\netcoreapp2.1\carpımTablosu.AssemblyInfo.cs
+C:\Users\Bus\Desktop\vs.C#\Solution1\carpımTablosu\obj\Debug\netcoreapp2.1\carpımTablosu.dll
+C:\Users\Bus\Desktop\vs.C#\Solution1\carpımTablosu\obj\Debug\netcoreapp2.1\carpımTablosu.pdb

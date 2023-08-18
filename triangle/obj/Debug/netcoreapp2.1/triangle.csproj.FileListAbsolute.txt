@@ -1,0 +1,11 @@
+C:\Users\Bus\Desktop\vs.C#\Solution1\triangle\bin\Debug\netcoreapp2.1\triangle.deps.json
+C:\Users\Bus\Desktop\vs.C#\Solution1\triangle\bin\Debug\netcoreapp2.1\triangle.runtimeconfig.json
+C:\Users\Bus\Desktop\vs.C#\Solution1\triangle\bin\Debug\netcoreapp2.1\triangle.runtimeconfig.dev.json
+C:\Users\Bus\Desktop\vs.C#\Solution1\triangle\bin\Debug\netcoreapp2.1\triangle.dll
+C:\Users\Bus\Desktop\vs.C#\Solution1\triangle\bin\Debug\netcoreapp2.1\triangle.pdb
+C:\Users\Bus\Desktop\vs.C#\Solution1\triangle\obj\Debug\netcoreapp2.1\triangle.csproj.CoreCompileInputs.cache
+C:\Users\Bus\Desktop\vs.C#\Solution1\triangle\obj\Debug\netcoreapp2.1\triangle.AssemblyInfoInputs.cache
+C:\Users\Bus\Desktop\vs.C#\Solution1\triangle\obj\Debug\netcoreapp2.1\triangle.AssemblyInfo.cs
+C:\Users\Bus\Desktop\vs.C#\Solution1\triangle\obj\Debug\netcoreapp2.1\triangle.dll
+C:\Users\Bus\Desktop\vs.C#\Solution1\triangle\obj\Debug\netcoreapp2.1\triangle.pdb
+C:\Users\Bus\Desktop\vs.C#\Solution1\triangle\obj\Debug\netcoreapp2.1\triangle.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Bus\Desktop\vs.C#\Solution1\calculator\bin\Debug\netcoreapp2.1\BaklavaSekli.deps.json
+C:\Users\Bus\Desktop\vs.C#\Solution1\calculator\bin\Debug\netcoreapp2.1\BaklavaSekli.runtimeconfig.json
+C:\Users\Bus\Desktop\vs.C#\Solution1\calculator\bin\Debug\netcoreapp2.1\BaklavaSekli.runtimeconfig.dev.json
+C:\Users\Bus\Desktop\vs.C#\Solution1\calculator\bin\Debug\netcoreapp2.1\BaklavaSekli.dll
+C:\Users\Bus\Desktop\vs.C#\Solution1\calculator\bin\Debug\netcoreapp2.1\BaklavaSekli.pdb
+C:\Users\Bus\Desktop\vs.C#\Solution1\calculator\obj\Debug\netcoreapp2.1\BaklavaSekli.csprojAssemblyReference.cache
+C:\Users\Bus\Desktop\vs.C#\Solution1\calculator\obj\Debug\netcoreapp2.1\BaklavaSekli.csproj.CoreCompileInputs.cache
+C:\Users\Bus\Desktop\vs.C#\Solution1\calculator\obj\Debug\netcoreapp2.1\BaklavaSekli.AssemblyInfoInputs.cache
+C:\Users\Bus\Desktop\vs.C#\Solution1\calculator\obj\Debug\netcoreapp2.1\BaklavaSekli.AssemblyInfo.cs
+C:\Users\Bus\Desktop\vs.C#\Solution1\calculator\obj\Debug\netcoreapp2.1\BaklavaSekli.dll
+C:\Users\Bus\Desktop\vs.C#\Solution1\calculator\obj\Debug\netcoreapp2.1\BaklavaSekli.pdb
